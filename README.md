@@ -8,7 +8,7 @@ Para configurar o projeto, siga os passos abaixo:
 
 1. Clone o repositório:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
+    git clone <https://github.com/Konyn/Backend-Laravel.git>
     ```
 
 2. Instale as dependências:
